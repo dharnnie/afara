@@ -1,0 +1,171 @@
+/*
+* ----------------------------------------------------------------------------------------
+Author       : Wordpressboss
+Template Name: Smoth - One Page MultiPurpose Template
+Version      : 1.0                                          
+* ----------------------------------------------------------------------------------------
+*/
+/* Styles Switcher */
+
+#style-switcher {
+    background: #fff none repeat scroll 0 0;
+    border-radius: 0 0 3px;
+    box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+    left: 0;
+    position: fixed;
+    top: 168px;
+    width: 220px;
+    z-index: 9999;
+}
+
+#style-switcher div {
+    padding: 5px 10px;
+}
+
+#style-switcher h2 {
+    color: #333;
+    font-family: montserrat, sans-serif;
+    font-size: 16px;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding: 10px 0;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#style-switcher h2 a {
+    background: #82B440 none repeat scroll 0 0;
+    display: block;
+    height: 40px;
+    position: absolute;
+    right: -40px;
+    top: 0;
+    width: 40px;
+}
+
+#style-switcher h2 a i {
+    color: #fff;
+    font-size: 20px;
+    left: 10px;
+    position: absolute;
+    top: 9px;
+}
+
+.colors {
+    padding-left: 7px;
+}
+
+.colors {
+    list-style: none;
+    margin: 0px 0px 10px 0px;
+    overflow: hidden;
+}
+
+.colors li {
+    float: left;
+}
+
+.colors li a {
+	cursor: pointer;
+	display: block;
+	height: 30px;
+	margin: 7px 9px;
+	width: 30px;
+}
+
+.layout-style select {
+    width: 100%;
+    padding: 5px;
+    border: none;
+    margin: 0 0 0 -5px;
+    color: #fff;
+    cursor: pointer;
+}
+
+#reset {
+    margin: 0 0 15px 2px;
+}
+
+#reset a {
+    color: #fff;
+    font-size: 12px;
+}
+
+.style1 {
+    background: #82B440;
+}
+
+.style2 {
+    background: #FF1654;
+}
+
+.style3 {
+    background: #0798BC;
+}
+
+.style4 {
+    background: #069A97;
+}
+
+.style5 {
+    background: #58C433;
+}
+
+.style6 {
+    background: #FBBC05;
+}
+.style7 {
+    background: #3065B5;
+}
+.style8 {
+    background: #FF6853;
+}
+
+
+
+
+.icon-2x {
+    color: #fff;
+    font-size: 22px;
+    line-height: 30px;
+}
+
+.item-version{}
+.item-version ul{
+    padding: 0;
+    margin: 0;
+list-style: none;
+}
+.item-version ul li{
+    display: block;
+    text-align: center;
+    position: relative;
+    
+}
+.item-version p {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	color: #000;
+	width: 100%;
+    background: #207FDC;
+    color: #fff;
+}
+.item-version ul li a {
+	display: block;
+	margin-bottom: 8px;
+	padding: 6px;
+	/* text-transform: uppercase; */
+	color: #fff;
+}
+
+
+
+/*
+* ----------------------------------------------------------------------------------------
+Author       : Wordpressboss
+Template Name: Smoth - One Page MultiPurpose Template
+Version      : 1.0                                          
+* ----------------------------------------------------------------------------------------
+*/
